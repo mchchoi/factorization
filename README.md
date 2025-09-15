@@ -1,6 +1,7 @@
 # Geometry and factorization of multivariate Markov chains with applications to the swapping algorithm
 
 **Authors:** Michael C.H. Choi, Youjia Wang and Geoffrey Wolfer
+
 **arXiv:** [https://arxiv.org/abs/2404.12589](https://arxiv.org/abs/2404.12589)
 
 This repository contains the code for the experiments in the paper *Geometry and factorization of multivariate Markov chains with applications to the swapping algorithm*. We compare original samplers such as lifted Metropolis-Hastings or swapping algorithm with projection samplers:
