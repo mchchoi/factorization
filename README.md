@@ -1,4 +1,4 @@
-# Geometry and factorization of multivariate Markov chains with applications to the swapping algorithm
+# Geometry and factorization of multivariate Markov chains with applications to MCMC acceleration and approximate inference
 
 **Authors:** Michael C.H. Choi, Youjia Wang and Geoffrey Wolfer
 
